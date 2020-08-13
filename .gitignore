@@ -1,0 +1,15 @@
+env/Lib/
+env/Scripts/*.py
+env/Scripts/*.pyd
+env/Scripts/*.exe
+env/Scripts/*.dll
+env/Scripts/*.bat
+env/Scripts/*.ps1
+env/Scripts/activate
+env/Scripts/__pycache__
+env/Scripts/ml_samples/.ipynb_checkpoints/
+env/etc
+env/share
+*.cfg
+env/Include/
+env/pip-selfcheck.json
